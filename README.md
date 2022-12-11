@@ -127,7 +127,7 @@ Gere receita com suas transmissões ao vivo e vídeos sob demanda com Anúncios,
 <p>Restrinja ou permita o acesso a suas transmissões com base em IPs, Domínios, regiões ou países.</p>
 <p>Bloqueie um ou mais usuários de acessar suas transmissões.</p>
 
-## Ultra qualidade em suas transmissões
+## :art:	Ultra qualidade em suas transmissões :art:
 
 <p>Disponibilize alta qualidade em suas Transmissões ao vivo com qualidade de até 8K.</p>
 <p>Codificação automática para diferentes formatos.</p>
