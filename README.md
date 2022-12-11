@@ -70,9 +70,9 @@ No modo OnScreen você pode selecionar telespectadores para mostrar as mensagens
 ### Modo MultiStreamer
       
 ```
-No modo MultiStreamer você pode compartilhar sua transmissão com até +2 Streamers, permitindo que um total de 3 Streamers
-possam falar e aparecer simultâneamente durante toda a transmissão, exatamente como a narração de um jogo de futebol
-na tv onde vários comentaristas narram o jogo juntos.
+No modo MultiStreamer você pode compartilhar sua transmissão com até +2 Streamers, permitindo que um total
+de 3 Streamers possam falar e aparecer simultâneamente durante toda a transmissão, exatamente como a 
+narração de um jogo de futebol na tv onde vários comentaristas narram o jogo juntos.
 ```
 
 <br>
