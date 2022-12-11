@@ -6,7 +6,6 @@
   ![live-stream-with-multiple-sources](https://user-images.githubusercontent.com/8391493/206886805-7f954f6b-46e2-4d12-a4d9-812debafc637.png)
 
 <p>Com a plataforma DevStream você pode Obter e Disponibilizar uma experiência de transmissão incrível para você e todos os seus telespectadores.</p>
-<p>Com nossa API <strong>StreamSync</strong> você pode realizar transmissões MultiStream simultâneamente em diversas plataformas Stream de maneira fácil e rápida.</p>
 <p>Com o poder total de personalização de suas telas você pode criar templates personalizados para cada plataforma stream que você estiver transmitindo.</p>
     <br>
 <p>Qualidade de transmissão altamente massiva para todos.</p>
@@ -32,6 +31,7 @@ Transmita seu conteúdo ao vivo pré-gravado de até 12 GB
   
 ##  🎲	Compatibilidade de Plataformas MultiStream 🎲
   
+<p>Com nossa API <strong>StreamSync</strong> você pode realizar transmissões MultiStream simultâneamente em diversas plataformas Stream de maneira fácil e rápida.</p>
 <br><a href="https://github.com/Developer-Team-Organization/Live-Streaming-Center-Pro" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/206880322-1e35d5dc-1051-4d20-962f-560db6ffe661.png" target="_blank"></a><br><br>
   
 ![23r4eftgnh](https://user-images.githubusercontent.com/8391493/206886519-574682f1-1581-4b49-ac22-1eeb1b02e069.png)<br><br>
