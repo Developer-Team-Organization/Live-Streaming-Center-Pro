@@ -106,9 +106,10 @@ Gere receita com suas transmissões ao vivo e vídeos sob demanda com Anúncios,
   ![ezgif-3-adfb4fb7a0](https://user-images.githubusercontent.com/8391493/206885589-216f6b04-db9e-41a1-99ab-180defefcb83.gif)
 
 ```
-  Aproveite a atenção dos espectadores durante suas transmissões para promover publicidades instantâneas de
-  aneira fácil e rápida, semelhante ao modo de publicidade de propagandas nos vídeos do Youtube que tem
-  duração de alguns segundos, você poderá inserir anúncios de até 60 segundos de duração.
+  Aproveite a atenção dos espectadores durante suas transmissões para promover publicidades
+  instantâneas de aneira fácil e rápida, semelhante ao modo de publicidade de propagandas
+  nos vídeos do Youtube que tem duração de alguns segundos, você poderá inserir
+  anúncios de até 60 segundos de duração.
 ```
 
 ### 📣	Publicidade In-Stream Overlay 📣
