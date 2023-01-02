@@ -107,7 +107,7 @@ Gere receita com suas transmissões ao vivo e vídeos sob demanda com Anúncios,
 
 ```
   Aproveite a atenção dos espectadores durante suas transmissões para promover publicidades
-  instantâneas de aneira fácil e rápida, semelhante ao modo de publicidade de propagandas
+  instantâneas de maneira fácil e rápida, semelhante ao modo de publicidade de propagandas
   nos vídeos do Youtube que tem duração de alguns segundos, você poderá inserir
   anúncios de até 60 segundos de duração.
 ```
